@@ -1,6 +1,6 @@
 {
     "install":true,
-    "test":false,
+    "test":true,
     "build":false,
     "deploy":false
 }
